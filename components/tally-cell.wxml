@@ -1,0 +1,13 @@
+<!--
+  index: int,
+  money: string
+  detail: string
+  time: string
+-->
+<template name="tally-cell">
+  <view class="tally-cell">
+      <text class="detail-text">{{detail}}</text>
+      <text class="money-text">{{money}}元</text>
+      <text class="time-text">{{time}}</text>
+  </view>
+</template>

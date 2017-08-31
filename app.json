@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/record/record"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#ff0",
+    "navigationBarTitleText": "记账手札",
+    "navigationBarTextStyle": "black"
+  }
+}

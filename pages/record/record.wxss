@@ -1,0 +1,42 @@
+/* record.wxss */
+page {
+  background-color: #F6F6F6;
+}
+
+.money-view {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background-color: #fff;
+  font-size: 16px;
+  box-sizing: border-box;
+  padding: 5px;
+}
+
+.detail-view {
+  font-size: 16px;
+  margin-top: 10px;
+  background-color: #fff;
+  box-sizing: border-box;
+  padding: 5px;
+}
+
+.detail-textarea {
+  width: 100%;
+  margin-top: 10rpx;
+  color: #666;
+}
+
+.save-button {
+  font-size: 16px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 98rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff0;
+  border-radius: 0;
+}
